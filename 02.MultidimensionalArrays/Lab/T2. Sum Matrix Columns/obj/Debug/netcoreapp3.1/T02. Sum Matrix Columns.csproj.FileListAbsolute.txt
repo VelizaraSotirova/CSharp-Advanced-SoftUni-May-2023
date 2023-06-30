@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\T02. Sum Matrix Columns.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\T02. Sum Matrix Columns.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\T02. Sum Matrix Columns.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\T02. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\T02. Sum Matrix Columns.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\T02. Sum Matrix Columns.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\T02. Sum Matrix Columns.genruntimeconfig.cache

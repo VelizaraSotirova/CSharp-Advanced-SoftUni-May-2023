@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\T01. Sum Matrix Elements.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\T01. Sum Matrix Elements.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\T01. Sum Matrix Elements.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\T01. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\T01. Sum Matrix Elements.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\T01. Sum Matrix Elements.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Lab\T01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\T01. Sum Matrix Elements.genruntimeconfig.cache
