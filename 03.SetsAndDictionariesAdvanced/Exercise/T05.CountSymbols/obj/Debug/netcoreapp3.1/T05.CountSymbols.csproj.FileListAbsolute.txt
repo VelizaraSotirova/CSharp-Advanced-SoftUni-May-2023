@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\bin\Debug\netcoreapp3.1\T05.CountSymbols.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\bin\Debug\netcoreapp3.1\T05.CountSymbols.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\bin\Debug\netcoreapp3.1\T05.CountSymbols.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\bin\Debug\netcoreapp3.1\T05.CountSymbols.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\bin\Debug\netcoreapp3.1\T05.CountSymbols.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\bin\Debug\netcoreapp3.1\T05.CountSymbols.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T05.CountSymbols\obj\Debug\netcoreapp3.1\T05.CountSymbols.genruntimeconfig.cache

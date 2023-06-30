@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\bin\Debug\netcoreapp3.1\T04. Even Times.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\bin\Debug\netcoreapp3.1\T04. Even Times.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\bin\Debug\netcoreapp3.1\T04. Even Times.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\bin\Debug\netcoreapp3.1\T04. Even Times.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\bin\Debug\netcoreapp3.1\T04. Even Times.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\bin\Debug\netcoreapp3.1\T04. Even Times.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T04. Even Times\obj\Debug\netcoreapp3.1\T04. Even Times.genruntimeconfig.cache

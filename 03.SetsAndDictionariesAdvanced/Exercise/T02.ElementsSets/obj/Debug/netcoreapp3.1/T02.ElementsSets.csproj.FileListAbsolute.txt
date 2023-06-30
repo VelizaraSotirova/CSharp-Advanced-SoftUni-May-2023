@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\bin\Debug\netcoreapp3.1\T02.ElementsSets.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\bin\Debug\netcoreapp3.1\T02.ElementsSets.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\bin\Debug\netcoreapp3.1\T02.ElementsSets.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\bin\Debug\netcoreapp3.1\T02.ElementsSets.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\bin\Debug\netcoreapp3.1\T02.ElementsSets.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\bin\Debug\netcoreapp3.1\T02.ElementsSets.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\T02.ElementsSets\obj\Debug\netcoreapp3.1\T02.ElementsSets.genruntimeconfig.cache
