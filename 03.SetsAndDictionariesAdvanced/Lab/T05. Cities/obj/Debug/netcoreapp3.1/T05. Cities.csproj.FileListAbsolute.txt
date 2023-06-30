@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\bin\Debug\netcoreapp3.1\T05. Cities.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\bin\Debug\netcoreapp3.1\T05. Cities.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\bin\Debug\netcoreapp3.1\T05. Cities.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\bin\Debug\netcoreapp3.1\T05. Cities.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\bin\Debug\netcoreapp3.1\T05. Cities.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\bin\Debug\netcoreapp3.1\T05. Cities.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\3. Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T05. Cities\obj\Debug\netcoreapp3.1\T05. Cities.genruntimeconfig.cache
