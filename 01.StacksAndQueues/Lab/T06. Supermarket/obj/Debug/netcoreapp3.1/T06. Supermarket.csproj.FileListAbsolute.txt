@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\bin\Debug\netcoreapp3.1\T06. Supermarket.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\bin\Debug\netcoreapp3.1\T06. Supermarket.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\bin\Debug\netcoreapp3.1\T06. Supermarket.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\bin\Debug\netcoreapp3.1\T06. Supermarket.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\bin\Debug\netcoreapp3.1\T06. Supermarket.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\bin\Debug\netcoreapp3.1\T06. Supermarket.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T06. Supermarket\obj\Debug\netcoreapp3.1\T06. Supermarket.genruntimeconfig.cache

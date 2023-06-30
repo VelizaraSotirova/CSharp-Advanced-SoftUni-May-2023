@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\bin\Debug\netcoreapp3.1\T04. Matching Brackets.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\bin\Debug\netcoreapp3.1\T04. Matching Brackets.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\bin\Debug\netcoreapp3.1\T04. Matching Brackets.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\bin\Debug\netcoreapp3.1\T04. Matching Brackets.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\bin\Debug\netcoreapp3.1\T04. Matching Brackets.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\bin\Debug\netcoreapp3.1\T04. Matching Brackets.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T04. Matching Brackets\obj\Debug\netcoreapp3.1\T04. Matching Brackets.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.genruntimeconfig.cache

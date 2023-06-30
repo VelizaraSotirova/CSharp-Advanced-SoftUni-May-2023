@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks ana Queques Lab\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.genruntimeconfig.cache
