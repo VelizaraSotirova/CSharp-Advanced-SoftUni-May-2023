@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\bin\Debug\netcoreapp3.1\T10. Crossroads.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\bin\Debug\netcoreapp3.1\T10. Crossroads.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\bin\Debug\netcoreapp3.1\T10. Crossroads.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\bin\Debug\netcoreapp3.1\T10. Crossroads.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\bin\Debug\netcoreapp3.1\T10. Crossroads.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\bin\Debug\netcoreapp3.1\T10. Crossroads.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T10. Crossroads\obj\Debug\netcoreapp3.1\T10. Crossroads.genruntimeconfig.cache

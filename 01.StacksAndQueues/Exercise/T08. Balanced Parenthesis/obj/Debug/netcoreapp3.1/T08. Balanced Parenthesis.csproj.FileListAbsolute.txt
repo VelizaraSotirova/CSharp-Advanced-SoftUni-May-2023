@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\T08. Balanced Parenthesis.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\T08. Balanced Parenthesis.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\T08. Balanced Parenthesis.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\T08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\T08. Balanced Parenthesis.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\T08. Balanced Parenthesis.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\T08. Balanced Parenthesis.genruntimeconfig.cache

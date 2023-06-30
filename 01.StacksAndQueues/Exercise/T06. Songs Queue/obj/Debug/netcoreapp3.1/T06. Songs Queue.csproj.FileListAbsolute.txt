@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\bin\Debug\netcoreapp3.1\T07. Truck Tour.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\bin\Debug\netcoreapp3.1\T07. Truck Tour.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\bin\Debug\netcoreapp3.1\T07. Truck Tour.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\bin\Debug\netcoreapp3.1\T07. Truck Tour.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\bin\Debug\netcoreapp3.1\T07. Truck Tour.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\bin\Debug\netcoreapp3.1\T07. Truck Tour.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T07. Truck Tour\obj\Debug\netcoreapp3.1\T07. Truck Tour.genruntimeconfig.cache

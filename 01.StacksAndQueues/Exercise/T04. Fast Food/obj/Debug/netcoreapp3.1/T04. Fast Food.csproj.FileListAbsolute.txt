@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\bin\Debug\netcoreapp3.1\T05. Fashion Boutique.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\bin\Debug\netcoreapp3.1\T05. Fashion Boutique.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\bin\Debug\netcoreapp3.1\T05. Fashion Boutique.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\bin\Debug\netcoreapp3.1\T05. Fashion Boutique.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\bin\Debug\netcoreapp3.1\T05. Fashion Boutique.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\bin\Debug\netcoreapp3.1\T05. Fashion Boutique.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\1. Stacks and Queues\Stacks and Queues-Exercise\T05. Fashion Boutique\obj\Debug\netcoreapp3.1\T05. Fashion Boutique.genruntimeconfig.cache
