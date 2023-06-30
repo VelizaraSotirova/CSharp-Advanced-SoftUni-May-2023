@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\bin\Debug\netcoreapp3.1\T04. Matrix Shuffling.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\bin\Debug\netcoreapp3.1\T04. Matrix Shuffling.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\bin\Debug\netcoreapp3.1\T04. Matrix Shuffling.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\bin\Debug\netcoreapp3.1\T04. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\bin\Debug\netcoreapp3.1\T04. Matrix Shuffling.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\bin\Debug\netcoreapp3.1\T04. Matrix Shuffling.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T04. Matrix Shuffling\obj\Debug\netcoreapp3.1\T04. Matrix Shuffling.genruntimeconfig.cache

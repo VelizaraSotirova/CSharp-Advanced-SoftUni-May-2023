@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\bin\Debug\netcoreapp3.1\T07. Knight Game.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\bin\Debug\netcoreapp3.1\T07. Knight Game.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\bin\Debug\netcoreapp3.1\T07. Knight Game.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\bin\Debug\netcoreapp3.1\T07. Knight Game.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\bin\Debug\netcoreapp3.1\T07. Knight Game.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\bin\Debug\netcoreapp3.1\T07. Knight Game.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T07. Knight Game\obj\Debug\netcoreapp3.1\T07. Knight Game.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\bin\Debug\netcoreapp3.1\T01. Diagonal Difference.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\bin\Debug\netcoreapp3.1\T01. Diagonal Difference.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\bin\Debug\netcoreapp3.1\T01. Diagonal Difference.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\bin\Debug\netcoreapp3.1\T01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\bin\Debug\netcoreapp3.1\T01. Diagonal Difference.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\bin\Debug\netcoreapp3.1\T01. Diagonal Difference.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T01. Diagonal Difference\obj\Debug\netcoreapp3.1\T01. Diagonal Difference.genruntimeconfig.cache

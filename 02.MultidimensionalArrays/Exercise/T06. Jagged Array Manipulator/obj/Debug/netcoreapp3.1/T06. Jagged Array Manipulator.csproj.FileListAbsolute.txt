@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\T06. Jagged Array Manipulator.genruntimeconfig.cache

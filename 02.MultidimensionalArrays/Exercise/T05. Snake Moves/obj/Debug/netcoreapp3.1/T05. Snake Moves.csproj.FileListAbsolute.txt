@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\bin\Debug\netcoreapp3.1\T05. Snake Moves.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\bin\Debug\netcoreapp3.1\T05. Snake Moves.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\bin\Debug\netcoreapp3.1\T05. Snake Moves.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\bin\Debug\netcoreapp3.1\T05. Snake Moves.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\bin\Debug\netcoreapp3.1\T05. Snake Moves.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\bin\Debug\netcoreapp3.1\T05. Snake Moves.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\2. Multidimensional Arrays\MultidimensionalArrays-Exercise\T05. Snake Moves\obj\Debug\netcoreapp3.1\T05. Snake Moves.genruntimeconfig.cache
