@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\4. Streams, Files and Directories\Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache
