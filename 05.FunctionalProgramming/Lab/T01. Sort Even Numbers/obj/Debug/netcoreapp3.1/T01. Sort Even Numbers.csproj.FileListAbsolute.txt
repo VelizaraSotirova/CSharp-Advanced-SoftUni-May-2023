@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\bin\Debug\netcoreapp3.1\T01. Sort Even Numbers.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\bin\Debug\netcoreapp3.1\T01. Sort Even Numbers.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\bin\Debug\netcoreapp3.1\T01. Sort Even Numbers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\bin\Debug\netcoreapp3.1\T01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\bin\Debug\netcoreapp3.1\T01. Sort Even Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\bin\Debug\netcoreapp3.1\T01. Sort Even Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\5. Functional Programming\Lab\FunctionalProgrammingLab\T01. Sort Even Numbers\obj\Debug\netcoreapp3.1\T01. Sort Even Numbers.genruntimeconfig.cache
