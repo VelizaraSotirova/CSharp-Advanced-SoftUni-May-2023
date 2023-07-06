@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\bin\Debug\netcoreapp3.1\T03. Car Constructors.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\bin\Debug\netcoreapp3.1\T03. Car Constructors.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\bin\Debug\netcoreapp3.1\T03. Car Constructors.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\bin\Debug\netcoreapp3.1\T03. Car Constructors.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\bin\Debug\netcoreapp3.1\T03. Car Constructors.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\bin\Debug\netcoreapp3.1\T03. Car Constructors.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T03. Car Constructors\obj\Debug\netcoreapp3.1\T03. Car Constructors.genruntimeconfig.cache

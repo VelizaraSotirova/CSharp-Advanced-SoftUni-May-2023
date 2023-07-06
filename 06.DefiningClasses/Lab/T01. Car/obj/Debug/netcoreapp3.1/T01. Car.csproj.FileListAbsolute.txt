@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\bin\Debug\netcoreapp3.1\T01. Car.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\bin\Debug\netcoreapp3.1\T01. Car.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\bin\Debug\netcoreapp3.1\T01. Car.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\bin\Debug\netcoreapp3.1\T01. Car.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\bin\Debug\netcoreapp3.1\T01. Car.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\bin\Debug\netcoreapp3.1\T01. Car.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\6. Defining Classes\DefiningClasses Lab\T01. Car\obj\Debug\netcoreapp3.1\T01. Car.genruntimeconfig.cache
