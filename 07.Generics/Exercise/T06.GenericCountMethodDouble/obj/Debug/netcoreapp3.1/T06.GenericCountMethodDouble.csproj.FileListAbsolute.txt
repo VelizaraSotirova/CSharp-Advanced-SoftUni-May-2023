@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\T06.GenericCountMethodDouble.genruntimeconfig.cache

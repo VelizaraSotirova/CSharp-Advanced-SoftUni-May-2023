@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\bin\Debug\netcoreapp3.1\T08.Threeuple.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\bin\Debug\netcoreapp3.1\T08.Threeuple.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\bin\Debug\netcoreapp3.1\T08.Threeuple.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\bin\Debug\netcoreapp3.1\T08.Threeuple.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\bin\Debug\netcoreapp3.1\T08.Threeuple.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\bin\Debug\netcoreapp3.1\T08.Threeuple.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T08.Threeuple\obj\Debug\netcoreapp3.1\T08.Threeuple.genruntimeconfig.cache

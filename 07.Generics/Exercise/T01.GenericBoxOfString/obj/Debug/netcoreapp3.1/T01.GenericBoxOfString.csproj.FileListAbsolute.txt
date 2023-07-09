@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\bin\Debug\netcoreapp3.1\T01.GenericBoxOfString.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\bin\Debug\netcoreapp3.1\T01.GenericBoxOfString.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\bin\Debug\netcoreapp3.1\T01.GenericBoxOfString.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\bin\Debug\netcoreapp3.1\T01.GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\bin\Debug\netcoreapp3.1\T01.GenericBoxOfString.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\bin\Debug\netcoreapp3.1\T01.GenericBoxOfString.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T01.GenericBoxOfString\obj\Debug\netcoreapp3.1\T01.GenericBoxOfString.genruntimeconfig.cache

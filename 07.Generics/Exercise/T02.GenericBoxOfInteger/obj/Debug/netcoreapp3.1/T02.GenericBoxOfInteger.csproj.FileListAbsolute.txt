@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\T02.GenericBoxOfInteger.genruntimeconfig.cache

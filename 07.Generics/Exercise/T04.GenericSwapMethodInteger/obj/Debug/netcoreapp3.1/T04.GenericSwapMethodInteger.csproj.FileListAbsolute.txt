@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsExercise\T04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\T04.GenericSwapMethodInteger.genruntimeconfig.cache
