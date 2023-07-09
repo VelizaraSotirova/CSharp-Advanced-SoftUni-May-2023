@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\bin\Debug\netcoreapp3.1\T02.ArrayCreator.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\bin\Debug\netcoreapp3.1\T02.ArrayCreator.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\bin\Debug\netcoreapp3.1\T02.ArrayCreator.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\bin\Debug\netcoreapp3.1\T02.ArrayCreator.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\bin\Debug\netcoreapp3.1\T02.ArrayCreator.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\bin\Debug\netcoreapp3.1\T02.ArrayCreator.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T02.ArrayCreator\obj\Debug\netcoreapp3.1\T02.ArrayCreator.genruntimeconfig.cache

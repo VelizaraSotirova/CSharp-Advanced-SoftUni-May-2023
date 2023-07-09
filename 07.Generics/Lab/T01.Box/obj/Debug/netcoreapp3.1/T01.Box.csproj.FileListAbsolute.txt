@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\bin\Debug\netcoreapp3.1\T01.Box.exe
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\bin\Debug\netcoreapp3.1\T01.Box.deps.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\bin\Debug\netcoreapp3.1\T01.Box.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\bin\Debug\netcoreapp3.1\T01.Box.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\bin\Debug\netcoreapp3.1\T01.Box.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\bin\Debug\netcoreapp3.1\T01.Box.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.dll
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.pdb
+C:\Users\HP\OneDrive\Desktop\SoftUni\Advanced\7. Generics\GenericsLab\T01.Box\obj\Debug\netcoreapp3.1\T01.Box.genruntimeconfig.cache
